@@ -2,6 +2,9 @@ View this project on [CADLAB.io](https://cadlab.io/project/1281).
 
 # TTS
 
+## About
+This library was adapted from https://github.com/jscrane/TTS for TTS in Spanish language
+
 ## Text-to-Speech Library for Arduino
 
 - checkout this project into your ``sketchbook/libraries`` folder
